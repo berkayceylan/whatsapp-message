@@ -1,5 +1,9 @@
 ## ElectronJS ile Ypatığım otomatik whatsapp mesajı gönderme uygulaması
-
+### Program Çalıştırılması
+  - Node ve npm uygulamarını yükleyin. (Bunları yükledikten sonra "node -v", "npm -v" komutları ile kontrol edebilirsiniz.
+  - Kaynak dosyalarının olduğu dizine terminal ile gidin
+  - "npm install --save-dev electron" komutunu çalıştırın.
+  - "npm start" ile programı başlatın.
 ### Program Kullanımı
   - Programı açtıktan sonra istersek excel dosyamızı seçelim, istersek Whatsapp'a bağlanalım. 
   - Eğer ilk olarak excel dosyasını seçersek program biz Whatsapp'a bağlanıncaya kadar dosyayı bekletir.
