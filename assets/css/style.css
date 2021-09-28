@@ -1,0 +1,13 @@
+html,
+body {
+    height: 100%;
+}
+
+.container {
+    height: 100%;
+}
+
+.my-auto {
+    margin: auto;
+    padding: auto;
+}
