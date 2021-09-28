@@ -18,4 +18,3 @@
 
  ### Uygulamayı kodlarken Puppeteer package'ı kullandım. 
  - Npm üzerinde Puppeteer'ın Whatsapp için özelleştirildiği package'lar vardı, fakat ben bu hazır package'ları kullanmak yerine kendi WhatsappRenderer ve ExcelRenderer class'larımı kullandım.
- - 
